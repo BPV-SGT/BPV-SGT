@@ -1,4 +1,16 @@
-## Hi there 👋
+## Bibin P Varghese 👋
+
+### About me
+
+Myself an Assistant Professor in Mechancial Engineering, Saintgits College of Engineering, kottayam.
+
+**Website:** <www.saintgits.org>
+
+
+## Workshop attended
+
+- Faculty Developement Programme- *Instrucational Design for Python Programming*
+- My email ID- bibinpvarghese@ymail.com
 
 <!--
 **BPV-SGT/BPV-SGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
